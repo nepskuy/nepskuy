@@ -9,14 +9,14 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝     ╚═╝        ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%9A%80;Building+The+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%9A%80;Building+The+Future+%F0%9F%8C%9F" alt="Typing SVG" />
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000)](https://instagram.com/nepskuy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/nepskuy)
-[![Email](https://img.shields.io/badge/Email-%23000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/nepskuy)
+[![Instagram](https://img.shields.io/badge/Instagram-%23000000.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=000000)](https://instagram.com/nepskuy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=000000)](https://linkedin.com/in/nepskuy)
+[![Email](https://img.shields.io/badge/Email-%23000000.svg?style=for-the-badge&logo=gmail&logoColor=white&color=000000)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23000000.svg?style=for-the-badge&logo=github&logoColor=white&color=000000)](https://github.com/nepskuy)
 
 </div>
 
