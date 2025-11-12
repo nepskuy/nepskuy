@@ -9,7 +9,7 @@
 ╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝     ╚═╝        ╚═════╝ ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&bgColor=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Building+The+Future" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&bgColor=000000&center=true&vCenter=true&width=600&lines=Just+Love+Solving+Problem;Trust+The+Process;Problem+Solver;Building+The+Future" alt="Typing SVG" />
 
 <br/>
 
@@ -55,7 +55,7 @@ Focus Areas: Go, TypeScript, System Design
 ### 🗓️ **Weekly Development Breakdown**
 
 <a href="https://wakatime.com/@nepskuy">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nepskuy&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&border_radius=10&langs_count=10&custom_title=📈+Weekly+Coding+Activity" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nepskuy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&langs_count=10&custom_title=📈+Weekly+Coding+Activity" alt="WakaTime Stats" />
 </a>
 
 </div>
@@ -81,7 +81,7 @@ const codingStats = {
 ### 🎯 **Most Used Languages**
 
 <a href="https://wakatime.com/@nepskuy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_radius=10&langs_count=10&custom_title=🎨+Language+Expertise" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=10&langs_count=10&custom_title=🎨+Language+Expertise" alt="Top Languages" />
 </a>
 
 </div>
