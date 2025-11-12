@@ -24,7 +24,7 @@
 
 <div align="center">
 
-█▓▒░ TECH STACK ░▒▓█
+### **█▓▒░ TECH STACK ░▒▓█**
 
 <img src="https://skillicons.dev/icons?i=go,php,ts,js,python,react,nextjs,vue,tailwind,laravel,postgres,mysql,bun,vercel,git,docker,github,vscode&perline=9&theme=light" />
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-█▓▒░ WAKATIME CODING ACTIVITY ░▒▓█
+### **█▓▒░ Development Environment ░▒▓█**
 
 <img src="https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg?style=for-the-badge&color=000000" alt="WakaTime Badge" />
 
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-### 🗓️ **Weekly Development Breakdown**
+### **█▓▒░ Weekly Development Breakdown ░▒▓█**
 
 <a href="https://wakatime.com/@nepskuy">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nepskuy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&langs_count=10&custom_title=📈+Weekly+Coding+Activity" alt="WakaTime Stats" />
@@ -119,7 +119,7 @@ Vercel
 ## ⚡ **GitHub Statistics** ⚡
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
