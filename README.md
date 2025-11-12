@@ -32,6 +32,10 @@
 
 <div align="center">
 
+<img src="https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg?style=for-the-badge&color=000000" alt="WakaTime Badge" />
+
+<br/>
+
 <a href="https://wakatime.com/@nepskuy">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nepskuy&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&langs_count=8&custom_title=Weekly+Coding+Activity" alt="WakaTime Stats" />
 </a>
@@ -90,7 +94,7 @@ func main() {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0&height=100&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=fff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=fff&animation=twinkling" />
 
 <sub>Code is like humor. When you have to explain it, it's bad.</sub>
 
