@@ -50,21 +50,6 @@
 
 </div>
 
-### 🔥 **Language Breakdown**
-
-<div align="center">
-
-```javascript
-const codingStats = {
-  topLanguages: ["Go", "TypeScript", "PHP", "JavaScript", "Python"],
-  primaryFrameworks: ["Next.js", "React", "Vue.js", "Laravel"],
-  databases: ["PostgreSQL", "MySQL"],
-  tools: ["Git", "Docker", "Vercel", "Bun"],
-  status: "Always Learning 🚀"
-};
-```
-
-</div>
 
 <div align="center">
 
