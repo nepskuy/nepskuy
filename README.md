@@ -43,6 +43,7 @@
 <br/><br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&count_private=true" alt="GitHub Stats" />
+
 <img width="49%" src="https://streak-stats.demolab.com/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&border_radius=10" alt="GitHub Streak" />
 
 </div>
@@ -94,14 +95,14 @@ func main() {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=fff&animation=twinkling" />
-
-<sub>Code is like humor. When you have to explain it, it's bad.</sub>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=nepskuy&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile Views" />
 
 From [nepskuy](https://github.com/nepskuy)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Thanks+for+visiting&fontSize=24&fontColor=fff&animation=twinkling" />
+
+<sub>Code is like humor. When you have to explain it, it's bad.</sub>
 
 </div>
