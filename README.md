@@ -53,29 +53,14 @@
 ### 🔥 **Language Breakdown**
 
 <div align="center">
-```typescript
-interface DeveloperProfile {
-  name: string;
-  specialization: string[];
-  currentStack: {
-    languages: string[];
-    frameworks: string[];
-    tools: string[];
-    databases: string[];
-  };
-  status: "Actively Coding" | "Available for Projects";
-}
 
-const navyGibran: DeveloperProfile = {
-  name: "Navy Gibran",
-  specialization: ["Backend Development", "System Design", "Web Applications"],
-  currentStack: {
-    languages: ["Go", "TypeScript", "PHP", "Python"],
-    frameworks: ["Next.js", "React", "Laravel", "Gin"],
-    tools: ["Docker", "Git", "Vercel", "Bun", "VS Code"],
-    databases: ["PostgreSQL", "MySQL", "Redis"]
-  },
-  status: "Actively Coding"
+```javascript
+const codingStats = {
+  topLanguages: ["Go", "TypeScript", "PHP", "JavaScript", "Python"],
+  primaryFrameworks: ["Next.js", "React", "Vue.js", "Laravel"],
+  databases: ["PostgreSQL", "MySQL"],
+  tools: ["Git", "Docker", "Vercel", "Bun"],
+  status: "Always Learning 🚀"
 };
 ```
 
