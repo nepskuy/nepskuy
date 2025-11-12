@@ -81,20 +81,32 @@ Cross-Platform
 <tr>
 <td align="center" width="50%">
 
-**🎯 Focus**  
-Backend & Frontend
+**🎨 Theme**  
+Dark Mode
 
 </td>
 <td align="center" width="50%">
 
-**📚 Learning**  
-Cloud Architecture
+**🐳 DevOps**  
+Docker
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**🔧 Version Control**  
+Git & GitHub
+
+</td>
+<td align="center" width="50%">
+
+**🚀 Deployment**  
+Vercel
 
 </td>
 </tr>
 </table>
-
-<div align="center">
 
 [🔗 **View Full Activity on WakaTime**](https://wakatime.com/@nepskuy)
 
@@ -106,8 +118,8 @@ Cloud Architecture
 
 ## ⚡ **GitHub Statistics** ⚡
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nepskuy&theme=transparent&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&border_radius=10" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF&border_radius=10" alt="GitHub Streak" />
 
 </div>
 
@@ -117,7 +129,7 @@ Cloud Architecture
 
 ## 📈 **Contribution Graph** 📈
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nepskuy&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&title_color=00D9FF&custom_title=Contribution+Activity" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nepskuy&theme=react-dark&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution+Activity" alt="Activity Graph" />
 
 </div>
 
@@ -127,7 +139,7 @@ Cloud Architecture
 
 ## 🏆 **GitHub Trophies** 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=nepskuy&theme=nord&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" alt="Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=nepskuy&theme=matrix&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,PullRequest,Issues,Followers,MultiLanguage" alt="Trophies" />
 
 </div>
 
