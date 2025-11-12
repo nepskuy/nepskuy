@@ -119,7 +119,7 @@ Vercel
 ## ⚡ **GitHub Statistics** ⚡
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_radius=10&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.vercel.app/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
