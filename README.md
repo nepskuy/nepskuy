@@ -1,58 +1,137 @@
-<!--
-## Hi there 👋
+<div align="center">
 
-![Navy Gibran GitHub stats](https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=tokyonight)
+# 🚀 Navy Gibran | Backend Engineer
 
-**nepskuy/nepskuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```ascii
+███╗   ██╗ █████╗ ██╗   ██╗██╗   ██╗
+████╗  ██║██╔══██╗██║   ██║╚██╗ ██╔╝
+██╔██╗ ██║███████║██║   ██║ ╚████╔╝ 
+██║╚██╗██║██╔══██║╚██╗ ██╔╝  ╚██╔╝  
+██║ ╚████║██║  ██║ ╚████╔╝    ██║   
+╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   
+```
 
-Here are some ideas to get you started:
+### 💬 *"Building robust APIs, one endpoint at a time"*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navygibran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navy-gibran-29950528a) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navygibran16@gmail.com)
 
+</div>
 
-Backend Skills
+---
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,postgresql,react,vue,next,php,bun,ts,&perline=3)](https://skillicons.dev)
+## 📡 API Endpoint Documentation
 
-<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df"/> <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"/> <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"/>
+```json
+{
+  "status": 200,
+  "message": "Developer Profile Loaded Successfully",
+  "data": {
+    "name": "Navy Gibran",
+    "role": "Backend Engineer",
+    "specialization": ["RESTful APIs", "Database Design", "System Architecture"],
+    "currently_working_on": "Building scalable backend systems",
+    "learning": "Advanced Go patterns & Cloud Architecture",
+    "open_to": "Collaboration on interesting projects"
+  }
+}
+```
 
-Connect With Me
-![https://www.instagram.com/accounts/onetap/?next=%2F](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![image](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
+---
 
--->
-![Navy Gibran](img/github-header-banner.png )
-# 💫 About Me:
-Hi My Name Is Navy
+## 🛠️ Tech Stack
 
+### **Backend & Languages**
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/navygibran ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navy-gibran-29950528a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navygibran16@gmail.com) 
+### **Frontend & Frameworks**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nepskuy&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nepskuy&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### **Databases**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nepskuy&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4)
+### **Tools & Platforms**
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Axios](https://img.shields.io/badge/axios-671ddf?style=for-the-badge&logo=axios&logoColor=white)
+![Three.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
-### 🔝 Top Contributed Repo
+---
+
+## ⏱️ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg)](https://wakatime.com/@3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46)
+
+<img src="https://wakatime.com/share/@3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46/d39f29c1-36c0-4bcb-8863-e49c55b3ac01.svg" width="48%"/> <img src="https://wakatime.com/share/@3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46/85c9484f-1331-4b8b-a64a-df1c83cce2c3.svg" width="48%"/>
+
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nepskuy&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" width="49%" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=nepskuy&theme=blue_navy&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nepskuy&theme=react-dark&hide_border=true&area=true" width="49%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=nepskuy&theme=blue_navy&no-frame=false&no-bg=true&margin-w=4&column=4)
+
+</div>
+
+---
+
+## 🔥 Top Contributed Repositories
+
+<div align="center">
+
 ![](https://github-contributor-stats.vercel.app/api?username=nepskuy&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=nepskuy&icon=0&color=1)](https://visitcount.itsvg.in)
+</div>
 
+---
 
+## 🎯 API Request Flow
+
+```mermaid
+graph LR
+    A[Client] -->|HTTP Request| B[API Gateway]
+    B -->|Route| C[Backend Service]
+    C -->|Query| D[(Database)]
+    D -->|Data| C
+    C -->|JSON Response| B
+    B -->|Response| A
+    
+    style A fill:#E4405F
+    style B fill:#00ADD8
+    style C fill:#777BB4
+    style D fill:#316192
+```
+
+---
+
+## 📈 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nepskuy/nepskuy/output/pacman-contribution-graph-dark.svg">
@@ -60,4 +139,38 @@ Hi My Name Is Navy
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nepskuy/nepskuy/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+---
+
+## 💡 Quick API Facts
+
+```typescript
+interface DeveloperStats {
+  totalCommits: number;
+  linesOfCode: number;
+  coffeeConsumed: number;
+  bugsSquashed: number;
+}
+
+const navyStats: DeveloperStats = {
+  totalCommits: 1000+,
+  linesOfCode: 50000+,
+  coffeeConsumed: Infinity,
+  bugsSquashed: 9999
+};
+```
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect & Build Something Amazing!
+
+[![Profile Views](https://visitcount.itsvg.in/api?id=nepskuy&icon=2&color=3)](https://visitcount.itsvg.in)
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+---
+
+⭐️ From [nepskuy](https://github.com/nepskuy) with 💙
+
+</div>
