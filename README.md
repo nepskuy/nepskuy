@@ -26,16 +26,7 @@
 
 █▓▒░ TECH STACK ░▒▓█
 
-<!-- Manual badges sebagai alternatif -->
-[![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=white)](https://golang.org)
-[![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com)
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
-[![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+<img src="https://skillicons.dev/icons?i=go,php,ts,js,python,react,nextjs,vue,tailwind,laravel,postgres,mysql,bun,vercel,git,docker,github,vscode&perline=9&theme=light" />
 
 </div>
 
@@ -48,16 +39,6 @@
 <img src="https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg?style=for-the-badge&color=000000" alt="WakaTime Badge" />
 
 </div>
-
-### 📊 **Activity Overview**
-
-```yaml
-Developer: Navy Gibran
-Status: Actively Coding 🔥
-Total Coding Time: Calculating hours of dedication...
-Daily Average: Building the future one commit at a time
-Focus Areas: Go, TypeScript, System Design
-```
 
 <div align="center">
 
@@ -72,14 +53,29 @@ Focus Areas: Go, TypeScript, System Design
 ### 🔥 **Language Breakdown**
 
 <div align="center">
+```typescript
+interface DeveloperProfile {
+  name: string;
+  specialization: string[];
+  currentStack: {
+    languages: string[];
+    frameworks: string[];
+    tools: string[];
+    databases: string[];
+  };
+  status: "Actively Coding" | "Available for Projects";
+}
 
-```javascript
-const codingStats = {
-  topLanguages: ["Go", "TypeScript", "PHP", "JavaScript", "Python"],
-  primaryFrameworks: ["Next.js", "React", "Vue.js", "Laravel"],
-  databases: ["PostgreSQL", "MySQL"],
-  tools: ["Git", "Docker", "Vercel", "Bun"],
-  status: "Always Learning 🚀"
+const navyGibran: DeveloperProfile = {
+  name: "Navy Gibran",
+  specialization: ["Backend Development", "System Design", "Web Applications"],
+  currentStack: {
+    languages: ["Go", "TypeScript", "PHP", "Python"],
+    frameworks: ["Next.js", "React", "Laravel", "Gin"],
+    tools: ["Docker", "Git", "Vercel", "Bun", "VS Code"],
+    databases: ["PostgreSQL", "MySQL", "Redis"]
+  },
+  status: "Actively Coding"
 };
 ```
 
