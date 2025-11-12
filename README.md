@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## ⚒️ **Tech Arsenal** ⚒️
+█▓▒░ TECH STACK ░▒▓█
 
 <img src="https://skillicons.dev/icons?i=go,php,ts,js,python,react,nextjs,vue,tailwind,laravel,postgres,mysql,bun,vercel,git,docker,github,vscode&perline=9&theme=dark" />
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 💻 **WakaTime Coding Activity** 💻
+█▓▒░ WAKATIME CODING ACTIVITY ░▒▓█
 
 <img src="https://wakatime.com/badge/user/3fd3cf75-1b26-4ae1-a40b-2e88fcf58d46.svg?style=for-the-badge&color=000000" alt="WakaTime Badge" />
 
