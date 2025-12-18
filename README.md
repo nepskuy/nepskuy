@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Navy%20Gibran&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Builder%20|%20Love%20to%20solve%20problem&descAlignY=55&descAlign=50&fontAlign=50" />
+<div style="background: linear-gradient(to bottom, #000000 0%, #000000 85%, transparent 100%); padding: 60px 0 40px 0; position: relative;">
+  <h1 style="font-size: 80px; font-weight: 700; color: #FFFFFF; margin: 0; letter-spacing: 8px; font-family: 'Poppins', sans-serif;">NAVY GIBRAN</h1>
+  <p style="font-size: 18px; color: #FFFFFF; margin: 15px 0 0 0; letter-spacing: 1px; font-family: 'Poppins', sans-serif;">Builder | Love to solve problem</p>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;Tech+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -64,13 +67,10 @@ Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nepskuy&theme=monokai&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
-
-
-## Contribution Graph
+<br/>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nepskuy&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
