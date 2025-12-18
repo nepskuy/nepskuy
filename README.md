@@ -64,24 +64,11 @@ Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building 
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nepskuy&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nepskuy&theme=monokai&utcOffset=7" alt="Productive Time" />
 </div>
 
-<br/>
 
-## GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nepskuy&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<br/>
 
 ## Contribution Graph
 
