@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Navy%20Gibran&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Problem%20Solver%20|%20Building%20The%20Future&descAlignY=55&descAlign=50&fontAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Navy%20Gibran&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Builder%20|%20Love%20to%20solve%20problem&descAlignY=55&descAlign=50&fontAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile;Tech+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,37 +16,13 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me
+## About Me
 
-```typescript
-const navy = {
-    name: "Navy Gibran",
-    role: "Full Stack Developer",
-    location: "Indonesia",
-    code: ["TypeScript", "JavaScript", "Go", "PHP", "Python"],
-    askMeAbout: ["web dev", "backend", "system design", "cloud architecture"],
-    technologies: {
-        backend: {
-            go: ["Fiber", "Gin", "Echo"],
-            php: ["Laravel", "CodeIgniter"],
-            node: ["Express", "NestJS"]
-        },
-        frontend: {
-            js: ["React", "Next.js", "Vue.js", "Nuxt.js"],
-            css: ["Tailwind", "Bootstrap", "Material-UI"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-        devOps: ["Docker", "AWS", "GitHub Actions", "Nginx"],
-        tools: ["Git", "Postman", "VSCode", "Figma"]
-    },
-    currentFocus: "Building scalable microservices and cloud-native applications",
-    funFact: "I debug with console.log and I'm not ashamed"
-};
-```
+Hey there! I'm Navy Gibran, a tech enthusiast from Indonesia who loves building things and solving problems. I've been exploring various technologies across the web development spectrum, from backend systems to frontend interfaces. Currently, I'm diving deep into Web3 development, particularly focusing on smart contract development. The decentralized future fascinates me, and I'm excited to be part of this revolutionary space where blockchain technology is reshaping how we think about applications and digital ownership.
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
+## Technologies I've Worked With
 
 <div align="center">
 
@@ -85,7 +61,7 @@ const navy = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nepskuy&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
@@ -94,40 +70,28 @@ const navy = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepskuy&theme=dark&hide_border=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nepskuy&theme=github_dark&utcOffset=7" alt="Productive Time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nepskuy&theme=monokai&utcOffset=7" alt="Productive Time" />
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nepskuy&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nepskuy&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Graph" width="25" height="25" /> Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nepskuy&theme=github-compact&hide_border=true&area=true&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&title_color=FFFFFF&custom_title=Contribution%20Activity%20Graph" alt="Activity Graph" />
 </div>
 
-<br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nepskuy/nepskuy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nepskuy/nepskuy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nepskuy/nepskuy/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Mantelpiece%20Clock.png" alt="Clock" width="25" height="25" /> WakaTime Stats
+## WakaTime Stats
 
 <div align="center">
   
@@ -143,64 +107,9 @@ const navy = {
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="25" height="25" /> Current Focus
 
-```go
-package main
 
-import (
-    "fmt"
-    "time"
-)
-
-type Developer struct {
-    Name        string
-    Role        string
-    Location    string
-    Skills      []string
-    Learning    []string
-    Hobbies     []string
-    CurrentGoal string
-}
-
-func (d *Developer) Introduce() {
-    fmt.Printf("Hi! I'm %s\n", d.Name)
-    fmt.Printf("%s based in %s\n", d.Role, d.Location)
-    fmt.Printf("Current Goal: %s\n", d.CurrentGoal)
-    fmt.Printf("Current Time: %s\n", time.Now().Format("2006-01-02 15:04:05"))
-}
-
-func main() {
-    me := &Developer{
-        Name:     "Navy Gibran",
-        Role:     "Full Stack Developer",
-        Location: "Indonesia",
-        Skills: []string{
-            "Go", "TypeScript", "React", "Next.js",
-            "Vue.js", "PHP", "Laravel", "PostgreSQL",
-            "Docker", "AWS", "System Design",
-        },
-        Learning: []string{
-            "Microservices Architecture",
-            "Cloud Native Development",
-            "Kubernetes & Container Orchestration",
-            "Advanced System Design Patterns",
-        },
-        Hobbies: []string{
-            "Open Source Contributing",
-            "Technical Writing",
-            "Learning New Technologies",
-        },
-        CurrentGoal: "Building scalable, production-ready applications",
-    }
-    
-    me.Introduce()
-}
-```
-
-<br/>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Contact" width="25" height="25" /> Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -223,7 +132,7 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="20" height="20" /> Profile Stats
+### Profile Stats
 
 ![](https://komarev.com/ghpvc/?username=nepskuy&label=Profile%20Views&color=000000&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/nepskuy?style=for-the-badge&color=000000)
